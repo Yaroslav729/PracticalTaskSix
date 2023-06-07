@@ -1,0 +1,15 @@
+G:\GB\PracticalTaskSix\forty-one\bin\Debug\net7.0\forty-one.exe
+G:\GB\PracticalTaskSix\forty-one\bin\Debug\net7.0\forty-one.deps.json
+G:\GB\PracticalTaskSix\forty-one\bin\Debug\net7.0\forty-one.runtimeconfig.json
+G:\GB\PracticalTaskSix\forty-one\bin\Debug\net7.0\forty-one.dll
+G:\GB\PracticalTaskSix\forty-one\bin\Debug\net7.0\forty-one.pdb
+G:\GB\PracticalTaskSix\forty-one\obj\Debug\net7.0\forty-one.csproj.AssemblyReference.cache
+G:\GB\PracticalTaskSix\forty-one\obj\Debug\net7.0\forty-one.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\PracticalTaskSix\forty-one\obj\Debug\net7.0\forty-one.AssemblyInfoInputs.cache
+G:\GB\PracticalTaskSix\forty-one\obj\Debug\net7.0\forty-one.AssemblyInfo.cs
+G:\GB\PracticalTaskSix\forty-one\obj\Debug\net7.0\forty-one.csproj.CoreCompileInputs.cache
+G:\GB\PracticalTaskSix\forty-one\obj\Debug\net7.0\forty-one.dll
+G:\GB\PracticalTaskSix\forty-one\obj\Debug\net7.0\refint\forty-one.dll
+G:\GB\PracticalTaskSix\forty-one\obj\Debug\net7.0\forty-one.pdb
+G:\GB\PracticalTaskSix\forty-one\obj\Debug\net7.0\forty-one.genruntimeconfig.cache
+G:\GB\PracticalTaskSix\forty-one\obj\Debug\net7.0\ref\forty-one.dll
