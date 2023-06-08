@@ -1,0 +1,15 @@
+G:\GB\PracticalTaskSix\forty-three\bin\Debug\net7.0\forty-three.exe
+G:\GB\PracticalTaskSix\forty-three\bin\Debug\net7.0\forty-three.deps.json
+G:\GB\PracticalTaskSix\forty-three\bin\Debug\net7.0\forty-three.runtimeconfig.json
+G:\GB\PracticalTaskSix\forty-three\bin\Debug\net7.0\forty-three.dll
+G:\GB\PracticalTaskSix\forty-three\bin\Debug\net7.0\forty-three.pdb
+G:\GB\PracticalTaskSix\forty-three\obj\Debug\net7.0\forty-three.csproj.AssemblyReference.cache
+G:\GB\PracticalTaskSix\forty-three\obj\Debug\net7.0\forty-three.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\PracticalTaskSix\forty-three\obj\Debug\net7.0\forty-three.AssemblyInfoInputs.cache
+G:\GB\PracticalTaskSix\forty-three\obj\Debug\net7.0\forty-three.AssemblyInfo.cs
+G:\GB\PracticalTaskSix\forty-three\obj\Debug\net7.0\forty-three.csproj.CoreCompileInputs.cache
+G:\GB\PracticalTaskSix\forty-three\obj\Debug\net7.0\forty-three.dll
+G:\GB\PracticalTaskSix\forty-three\obj\Debug\net7.0\refint\forty-three.dll
+G:\GB\PracticalTaskSix\forty-three\obj\Debug\net7.0\forty-three.pdb
+G:\GB\PracticalTaskSix\forty-three\obj\Debug\net7.0\forty-three.genruntimeconfig.cache
+G:\GB\PracticalTaskSix\forty-three\obj\Debug\net7.0\ref\forty-three.dll
